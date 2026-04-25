@@ -124,9 +124,6 @@ If extending this:
 - Build a production PD model with proper backtesting and validation
 - Add output guardrails (regex-validate every number against source)
 
-## License
-
-MIT — feel free to use as a learning reference.
 
 ---
 
