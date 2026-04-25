@@ -1,0 +1,25 @@
+# Core LLM + agents
+langgraph==0.2.45
+langchain-groq==0.2.1
+langchain-core==0.3.15
+
+# Data validation
+pydantic==2.9.2
+
+# Embeddings + vector DB (for RAG)
+sentence-transformers==3.2.1
+chromadb==0.5.15
+
+# ML model (for PD scoring)
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+
+# UI
+streamlit==1.39.0
+
+# Environment + utilities
+python-dotenv==1.0.1
+
+# Testing
+pytest==8.3.3

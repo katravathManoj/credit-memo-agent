@@ -1,0 +1,14 @@
+{
+  "borrower_name": "Sunrise Hospitality Holdings",
+  "industry": "Hospitality",
+  "revenue": 620.0,
+  "ebitda": 45.0,
+  "interest_expense": 32.0,
+  "total_debt": 425.0,
+  "cash_and_equivalents": 18.0,
+  "current_assets": 145.0,
+  "current_liabilities": 195.0,
+  "total_equity": 88.0,
+  "years_in_business": 22,
+  "public_or_private": "Private"
+}

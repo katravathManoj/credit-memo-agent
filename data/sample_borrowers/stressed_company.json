@@ -1,0 +1,14 @@
+{
+  "borrower_name": "Pacific Retail Group",
+  "industry": "Retail",
+  "revenue": 1450.0,
+  "ebitda": 105.0,
+  "interest_expense": 38.0,
+  "total_debt": 580.0,
+  "cash_and_equivalents": 42.0,
+  "current_assets": 410.0,
+  "current_liabilities": 320.0,
+  "total_equity": 285.0,
+  "years_in_business": 41,
+  "public_or_private": "Public"
+}

@@ -1,0 +1,14 @@
+{
+  "borrower_name": "Acme Manufacturing Co.",
+  "industry": "Manufacturing",
+  "revenue": 950.0,
+  "ebitda": 175.0,
+  "interest_expense": 18.0,
+  "total_debt": 380.0,
+  "cash_and_equivalents": 95.0,
+  "current_assets": 320.0,
+  "current_liabilities": 165.0,
+  "total_equity": 540.0,
+  "years_in_business": 28,
+  "public_or_private": "Private"
+}
