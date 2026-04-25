@@ -47,8 +47,6 @@ python main.py --borrower data/sample_borrowers/healthy_company.json --scenario 
 streamlit run src/ui/app.py
 ```
 
-For detailed setup instructions, see [`docs/04_setup_guide.md`](docs/04_setup_guide.md).
-
 ## Sample output
 
 The agent produces a Markdown credit memo with sections:
@@ -100,8 +98,6 @@ credit_memo_agent/
 
 ## Limitations
 
-I want to be honest about what this project is and isn't.
-
 **What it is:** a faithful, working demonstration of the engineering pattern that banks are deploying for credit memo generation. The architecture (deterministic compute + LLM synthesis), the use of RAG for peer retrieval, and the stress-testing methodology are all genuinely representative of production patterns.
 
 **What it isn't:** a production-grade credit risk system. Specifically:
@@ -116,7 +112,6 @@ I want to be honest about what this project is and isn't.
 
 ## Future work
 
-If extending this:
 - Replace ChromaDB with a managed vector DB (Pinecone, Weaviate)
 - Async LLM calls so the 6 memo sections generate in parallel
 - Add LangSmith / Langfuse for tracing and observability
